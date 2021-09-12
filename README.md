@@ -73,3 +73,12 @@
 
 
 <hr>
+
+### Background
+The County of Santa Clara is well known for its diverse population. Statistical data regarding certain Covid-19 health markers are made available by the County for analysis through a system of application programming interfaces, or APIs, among other access methods like web apps, comma-separated values, and more. Some data made available by the County are recorded per Census Tract. The information currently available for the County by tract are test rate, positivity rate, case rate, and vacc12 rate (over age 12 vaccinations per population).
+
+### Analysis
+Covid-19 Positivity and Case Rate is seen to be inversely correlated to the curve of population who indicated White Alone as their racial identity.  There appears strong corellation between positivity and case rate with the percent who indicated Hispanic origin. There is a spike in cases in some tracts approaching and exceeding 70% White Alone, against the inverse correllation. Vacc12 and testing rates are seen to be definitely not correllated to the race-origin categorizations.
+
+### Results
+These data show us that the County Health educational campaigns for Covid-19 testing and vaccinations most likely did achieve equity. Where the County may not have fully met Health equity standards vital for moving forward with general economic recovery in terms of test positivity and case rate per populated tract. (ref. https://covid19.ca.gov/equity/)  It is important to identify the factors which cause racial inequities seen graphically in the analysis, and adopt practices moving forward with the goal of saving lives by health equity.
