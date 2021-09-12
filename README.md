@@ -1,5 +1,9 @@
 # covid19race
-Notebooks comparing Census data and County of Santa Clara Covid-19 health data
+## Notebooks comparing Census data and County of Santa Clara Covid-19 health data
+### Richard Eldon Barber `kd6kxr@gmail.com` 2021 September 11
+#### Sources:
+##### https://data.sccgov.org/ *via* Socrata API
+##### https://data.census.gov/ *via* python API
 <hr>
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb
