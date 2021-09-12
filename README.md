@@ -34,11 +34,10 @@ Notebooks comparing Census data and County of Santa Clara Covid-19 health data
 | :---: |
 | *Figure 6. Sorted plot of Testing Rate data* |
 
-
 <hr>
+
 ### https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb
     Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
-
 
 | <img width="640px"  src="Resources/figure1.svg"></img> |
 | :---: |
