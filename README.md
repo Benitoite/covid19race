@@ -76,6 +76,10 @@
 | :---: |
 | *Figure 4h. Sorted plot of Vacc12 data* |
 
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure4ha.svg"></img> |
+| :---: |
+| *Figure 4ha. Sorted plot of Vacc12 data: Linear Regression* |
+
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure5.svg"></img> |
 | :---: |
 | *Figure 5h. Sorted plot of Testing Rate data* |
@@ -83,6 +87,10 @@
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6.svg"></img> |
 | :---: |
 | *Figure 6h. Sorted plot of Testing Rate data* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6ha.svg"></img> |
+| :---: |
+| *Figure 6ha. Sorted plot of Testing Rate data: Linear Regression* |
 
 <hr>
 
