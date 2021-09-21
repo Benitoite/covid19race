@@ -55,17 +55,22 @@
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure1.svg"></img> |
 | :---: |
 | *Figure 1h. Unsorted plot of Case and Positivity Rate data* |
-
-
  
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2.svg"></img> |
 | :---: |
 | *Figure 2h. Sorted plot of Case and Positivity Rate data* |
- 
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2ha.svg"></img> |
+| :---: |
+| *Figure 2ha. Sorted plot of Case Rate data: Linear Regression* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2hb.svg"></img> |
+| :---: |
+| *Figure 2hb. Sorted plot of Positivity Rate data: Linear Regression* |
+
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure3.svg"></img> |
 | :---: |
 | *Figure 3h. Unsorted plot of Vacc12 data* |
-
 
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure4.svg"></img> |
 | :---: |
@@ -75,11 +80,9 @@
 | :---: |
 | *Figure 5h. Sorted plot of Testing Rate data* |
 
-
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6.svg"></img> |
 | :---: |
 | *Figure 6h. Sorted plot of Testing Rate data* |
-
 
 <hr>
 
