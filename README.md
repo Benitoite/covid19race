@@ -45,7 +45,7 @@
 
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure6a.svg"></img> |
 | :---: |
-| *Figure a. Sorted plot of Testing Rate data: Linear Regression* |
+| *Figure 6a. Sorted plot of Testing Rate data: Linear Regression* |
 
 <hr>
 
