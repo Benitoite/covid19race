@@ -2,9 +2,9 @@
 # Covid-19 & Race
 ## Notebooks comparing U.S. Census Bureau demographic and County of Santa Clara Covid-19 health data
 
-<img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300"></img><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif"></img>
+<img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300" /><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif" />
 
-### Richard Eldon Barber `kd6kxr@gmail.com` 2021 September 11
+### Richard Eldon Barber | `kd6kxr@gmail.com` | 2021 September 11
 #### Sources:
 > #####     https://data.sccgov.org/ *via* Socrata API
 > #####     https://data.census.gov/ *via* python API
@@ -16,7 +16,7 @@
 ## Covid-19 Mapping
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb
-Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
+> Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
     
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map5.png"></img> |
 | :---: |
@@ -43,7 +43,7 @@ Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics b
 ## Covid-19 Racial Analyses
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb
-    Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
+> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
 
 
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure1.svg"></img> |
