@@ -1,9 +1,39 @@
 # covid19race
 ## Notebooks comparing Census data and County of Santa Clara Covid-19 health data
 ### Richard Eldon Barber `kd6kxr@gmail.com` 2021 September 11
+
+<img src="Resources/maps.gif" width=600></img>
+
 #### Sources:
 ##### https://data.sccgov.org/ *via* Socrata API
 ##### https://data.census.gov/ *via* python API
+#### Census Tract Reference Plot:
+##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
+<hr>
+
+### https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb
+    Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
+    
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map5.png"></img> |
+| :---: |
+| *Figure M1. Case Rate* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map9.png"></img> |
+| :---: |
+| *Figure M2. Test Positivity Rate* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map6.png"></img> |
+| :---: |
+| *Figure M3. Percent Hispanic Responses* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map8.png"></img> |
+| :---: |
+| *Figure M4. Percent White-Only Responses* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map7.png"></img> |
+| :---: |
+| *Figure M5. Population Density* |
+
 <hr>
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb
