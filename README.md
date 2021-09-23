@@ -144,4 +144,4 @@ Covid-19 Positivity and Case Rate is seen to be inversely correlated to the curv
 ### Results
 These data show us that the County Health educational campaigns for Covid-19 testing and vaccinations most likely did achieve equity. The County may not have fully met Health equity standards vital for moving forward with general economic recovery in terms of test positivity and case rate per populated tract. (ref. https://covid19.ca.gov/equity/)  It is important to identify the factors which cause racial inequities seen graphically in the analysis, and adopt practices moving forward with the goal of saving lives by health equity.
 
-####
+\####
