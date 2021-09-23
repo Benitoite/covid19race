@@ -16,9 +16,13 @@
 
 > ##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
 
+#### Licensing:
+
+> ##### [GNU Affero V3 2017](https://raw.githubusercontent.com/Benitoite/covid19race/main/LICENSE)
+
 <hr>
 
-### Covid-19 Mapping
+## Covid-19 Mapping
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
 
@@ -46,7 +50,7 @@
 
 <hr>
 
-### Covid-19 Racial Analyses
+## Covid-19 Racial Analyses
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb)
 
