@@ -1,25 +1,28 @@
-
 # Covid-19 & Race
 ## Notebooks comparing U.S. Census Bureau demographic and County of Santa Clara Covid-19 health data
 
 <img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300" /><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif" />
 
-## Richard Eldon Barber | [`kd6kxr@gmail.com`](kd6kxr@gmail.com)
+## Richard Eldon Barber | [`kd6kxr@gmail.com`](mailto:kd6kxr@gmail.com)
 ### 11 September 2021 | `/DTG//110630USEP21  //RB21911001/`
 
 
 #### Sources:
 
-> #####     https://data.sccgov.org/ *via* Socrata API
-> #####     https://data.census.gov/ *via* python API
+> #####     [https://data.sccgov.org/](https://data.sccgov.org/) *via* Socrata API
+> #####     [https://data.census.gov/](https://data.census.gov/) *via* python API
 
 #### Census Tract Reference Plot:
 
-> ##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
+> ##### [https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf](https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf)
+
+#### Licensing:
+
+> ##### [GNU Affero V3 2017](https://raw.githubusercontent.com/Benitoite/covid19race/main/LICENSE)
 
 <hr>
 
-### Covid-19 Mapping
+## Covid-19 Mapping
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
 
@@ -47,7 +50,7 @@
 
 <hr>
 
-### Covid-19 Racial Analyses
+## Covid-19 Racial Analyses
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb)
 
