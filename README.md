@@ -9,12 +9,12 @@
 
 #### Sources:
 
-> #####     https://data.sccgov.org/ *via* Socrata API
-> #####     https://data.census.gov/ *via* python API
+> #####     [https://data.sccgov.org/](https://data.sccgov.org/) *via* Socrata API
+> #####     [https://data.census.gov/](https://data.census.gov/) *via* python API
 
 #### Census Tract Reference Plot:
 
-> ##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
+> ##### [https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf](https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf)
 
 #### Licensing:
 
