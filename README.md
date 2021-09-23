@@ -4,8 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300" /><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif" />
 
-### Richard Eldon Barber | [`kd6kxr@gmail.com`](kd6kxr@gmail.com) 
-##### /DTG//110630USEP21/
+## Richard Eldon Barber | [`kd6kxr@gmail.com`](kd6kxr@gmail.com)
+### 11 September 2021 | `/DTG//110630USEP21  //RB21911001/`
+
 
 #### Sources:
 
@@ -18,9 +19,9 @@
 
 <hr>
 
-## Covid-19 Mapping
+### Covid-19 Mapping
 
-### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
+#### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
 
 > Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
     
@@ -46,9 +47,9 @@
 
 <hr>
 
-## Covid-19 Racial Analyses
+### Covid-19 Racial Analyses
 
-### [https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb)
+#### [https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb)
 
 > Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
 
@@ -90,7 +91,7 @@
 
 <hr>
 
-### [https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb)
+#### [https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb)
 
 > Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
 
