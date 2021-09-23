@@ -5,10 +5,14 @@
 <img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300"></img><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif"></img>
 
 ### Richard Eldon Barber `kd6kxr@gmail.com` 2021 September 11
+
 #### Sources:
+
 > #####     https://data.sccgov.org/ *via* Socrata API
 > #####     https://data.census.gov/ *via* python API
+
 #### Census Tract Reference Plot:
+
 > ##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
 
 <hr>
