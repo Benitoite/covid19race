@@ -1,19 +1,22 @@
+
 # Covid-19 & Race
 ## Notebooks comparing U.S. Census Bureau demographic and County of Santa Clara Covid-19 health data
 
-<img src="Resources/maps.gif" height="300"></img><img height="300"  src="Resources/figs.gif"></img>
+<img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300"></img><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif"></img>
 
 ### Richard Eldon Barber `kd6kxr@gmail.com` 2021 September 11
 #### Sources:
-##### https://data.sccgov.org/ *via* Socrata API
-##### https://data.census.gov/ *via* python API
+> #####     https://data.sccgov.org/ *via* Socrata API
+> #####     https://data.census.gov/ *via* python API
 #### Census Tract Reference Plot:
-##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
+> ##### https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf
 
 <hr>
 
+## Covid-19 Mapping
+
 ### https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb
-    Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
+Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
     
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map5.png"></img> |
 | :---: |
@@ -36,6 +39,8 @@
 | *Figure M5. Population Density* |
 
 <hr>
+
+## Covid-19 Racial Analyses
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb
     Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
@@ -81,7 +86,7 @@
 <hr>
 
 ### https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb
-    Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
+> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
 
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure1.svg"></img> |
 | :---: |
