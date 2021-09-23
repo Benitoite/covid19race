@@ -2,9 +2,9 @@
 # Covid-19 & Race
 ## Notebooks comparing U.S. Census Bureau demographic and County of Santa Clara Covid-19 health data
 
-<img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300"></img><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif"></img>
+<img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300" /><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif" />
 
-### Richard Eldon Barber `kd6kxr@gmail.com` 2021 September 11
+### Richard Eldon Barber | `kd6kxr@gmail.com` | 2021 September 11
 
 #### Sources:
 
@@ -20,25 +20,26 @@
 ## Covid-19 Mapping
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb
-Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
+
+> Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
     
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map5.png"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map5.png"> |
 | :---: |
 | *Figure M1. Case Rate* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map9.png"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map9.png"> |
 | :---: |
 | *Figure M2. Test Positivity Rate* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map6.png"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map6.png"> |
 | :---: |
 | *Figure M3. Percent Hispanic Responses* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map8.png"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map8.png"> |
 | :---: |
 | *Figure M4. Percent White-Only Responses* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map7.png"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map7.png"> |
 | :---: |
 | *Figure M5. Population Density* |
 
@@ -47,88 +48,88 @@ Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics b
 ## Covid-19 Racial Analyses
 
 ### https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb
-    Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
 
+> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure1.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure1.svg"> |
 | :---: |
 | *Figure 1. Unsorted plot of Case and Positivity Rate data* |
 
-
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2.svg"> |
 | :---: |
 | *Figure 2. Sorted plot of Case and Positivity Rate data* |
  
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2a.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2a.svg"> |
 | :---: |
 | *Figure 2a. Sorted plot of Case and Positivity Rate data: Linear Regression* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure3.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure3.svg"> |
 | :---: |
 | *Figure 3. Unsorted plot of Vacc12 data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure4.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure4.svg"> |
 | :---: |
 | *Figure 4. Sorted plot of Vacc12 data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure4a.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure4a.svg"> |
 | :---: |
 | *Figure 4a. Sorted plot of Vacc12 data: Linear Regression* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure5.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure5.svg"> |
 | :---: |
 | *Figure 5. Sorted plot of Testing Rate data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure6.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure6.svg"> |
 | :---: |
 | *Figure 6. Sorted plot of Testing Rate data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure6a.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure6a.svg"> |
 | :---: |
 | *Figure 6a. Sorted plot of Testing Rate data: Linear Regression* |
 
 <hr>
 
 ### https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb
+
 > Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure1.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure1.svg"> |
 | :---: |
 | *Figure 1h. Unsorted plot of Case and Positivity Rate data* |
  
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2.svg"> |
 | :---: |
 | *Figure 2h. Sorted plot of Case and Positivity Rate data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2ha.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2ha.svg"> |
 | :---: |
 | *Figure 2ha. Sorted plot of Case Rate data: Linear Regression* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2hb.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2hb.svg"> |
 | :---: |
 | *Figure 2hb. Sorted plot of Positivity Rate data: Linear Regression* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure3.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure3.svg"> |
 | :---: |
 | *Figure 3h. Unsorted plot of Vacc12 data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure4.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure4.svg"> |
 | :---: |
 | *Figure 4h. Sorted plot of Vacc12 data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure4ha.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure4ha.svg"> |
 | :---: |
 | *Figure 4ha. Sorted plot of Vacc12 data: Linear Regression* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure5.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure5.svg"> |
 | :---: |
 | *Figure 5h. Sorted plot of Testing Rate data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6.svg"> |
 | :---: |
 | *Figure 6h. Sorted plot of Testing Rate data* |
 
-| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6ha.svg"></img> |
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6ha.svg"> |
 | :---: |
 | *Figure 6ha. Sorted plot of Testing Rate data: Linear Regression* |
 
