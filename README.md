@@ -4,7 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="300" /><img height="300"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif" />
 
-### Richard Eldon Barber | `kd6kxr@gmail.com` | 2021 September 11
+### Richard Eldon Barber | [`kd6kxr@gmail.com`](kd6kxr@gmail.com) 
+##### /DTG//110630USEP21/
 
 #### Sources:
 
