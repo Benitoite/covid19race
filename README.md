@@ -22,6 +22,15 @@
 
 <hr>
 
+|   Contents:   |
+| -----  |
+|  [Covid-19 Mapping](#covid-19-mapping)  |
+|     |
+|  [Covid-19 Racial Analyses](#covid-19-racial-analyses)  |
+ 
+
+<hr>
+
 ## Covid-19 Mapping
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
