@@ -32,21 +32,49 @@
 | :---: |
 | *Figure M1. Case Rate* |
 
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mapcase.png"> |
+| :---: |
+| *Figure M1a. Case Rate Contextual Map* |
+
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map9.png"> |
 | :---: |
 | *Figure M2. Test Positivity Rate* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mappos.png"> |
+| :---: |
+| *Figure M2a. Test Positivity Rate Contextual Map* |
 
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map6.png"> |
 | :---: |
 | *Figure M3. Percent Hispanic Responses* |
 
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maphisp2.png"> |
+| :---: |
+| *Figure M3a. Percent Hispanic Responses Contextual Map* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maphisp.png"> |
+| :---: |
+| *Figure M3b. Percent Hispanic Responses Topo Map* |
+
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map8.png"> |
 | :---: |
 | *Figure M4. Percent White-Only Responses* |
 
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mapwhite2.png"> |
+| :---: |
+| *Figure M4a. Percent White-Only Responses Contextual Map* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mapwhite.png"> |
+| :---: |
+| *Figure M4b. Percent White-Only Responses Topo Map* |
+
 | <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map7.png"> |
 | :---: |
 | *Figure M5. Population Density* |
+
+| <img width="640px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mappopden.png"> |
+| :---: |
+| *Figure M5a. Population Density Topo Map* |
 
 <hr>
 
