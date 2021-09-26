@@ -33,6 +33,7 @@
 ## Covid-19 Mapping
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
+#### [https://github.com/Benitoite/covid19race/blob/main/covid19map-asia.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map-asia.ipynb)
 
 > Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
     
@@ -61,6 +62,10 @@
 | :---: | :---: |
 | *Figure M4a. Percent White-Only Responses Contextual Map* | *Figure M4b. Percent White-Only Responses Topo Map* |
 
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mapasia2.png"> | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mapasia.png"> |
+| :---: | :---: |
+| *Figure M6a. Percent Asian Responses Contextual Map* | *Figure M6b. Percent Asian Responses Topo Map* |
+
 | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map7.png"> | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/mappopden.png"> |
 | :---: | :---: |
 | *Figure M5. Population Density* | *Figure M5a. Population Density Topo Map* |
@@ -68,6 +73,13 @@
 <hr>
 
 ## Covid-19 Racial Analyses
+
+|   [White](#white-only)  |  [Hispanic](#hispanic-analysis)   |   [Asian](#asian-analysis)   |
+|:--:|:--:|:--|
+
+<hr>
+
+### White-only
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb)
 
@@ -103,6 +115,8 @@
 
 <hr>
 
+### Hispanic Analysis
+
 #### [https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb)
 
 > Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
@@ -134,6 +148,10 @@
 | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure6ha.svg"> |
 | :---: |
 | *Figure 6ha. Sorted plot of Testing Rate data: Linear Regression* |
+
+<hr>
+
+### Asian Analysis
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19race-asia.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race-asia.ipynb)
 
