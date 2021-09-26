@@ -175,6 +175,35 @@
 | :---: |
 | *Figure 6ha. Sorted plot of Testing Rate data: Linear Regression* |
 
+#### [https://github.com/Benitoite/covid19race/blob/main/covid19race-asia.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race-asia.ipynb)
+
+> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Asian
+
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure1aa.svg"> |
+| :---: |
+| *Figure 1aa. Covid-19 Case and Positivity Rates Per Tract % Asian* |
+
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2aa.svg"> |
+| :---: |
+| *Figure 2aa. Sorted plot Covid-19 Case and Positivity Rates Per Tract % Asian* |
+
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure3aa.svg"> |
+| :---: |
+| *Figure 3aa. Covid-19 Case Rates Per Tract % Asian: Linear Regression* |
+
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure4aa.svg"> |
+| :---: |
+| *Figure 4aa. Covid-19 Positivity % Per Tract % Asian: Linear Regression* |
+
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure7aa.svg"> |
+| :---: |
+| *Figure 7aa. Covid-19 Vacc12 Rates Per Tract % Asian: Linear Regression* |
+
+| <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure10aa.svg"> |
+| :---: |
+| *Figure 10aa. Covid-19 Test Rates Per Tract % Asian: Linear Regression* |
+
+
 <hr>
 
 ### Background
