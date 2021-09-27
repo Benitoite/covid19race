@@ -75,7 +75,7 @@
 ## Covid-19 Racial Analyses
 
 |   [White](#white-only)  |  [Hispanic](#hispanic-analysis)   |   [Asian](#asian-analysis)   |
-|:--:|:--:|:--|
+|:--:|:--:|:--:|
 | [B02001_002E](https://api.census.gov/data/2016/acs/acs5/groups/B02001.html) | [B03001_003E](https://api.census.gov/data/2016/acs/acs5/groups/B03001.html) | [B02015_001E](https://api.census.gov/data/2016/acs/acs5/groups/B02015.html) |
 
 <hr>
