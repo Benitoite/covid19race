@@ -6,19 +6,19 @@
 ## Richard Eldon Barber | [`kd6kxr@gmail.com`](mailto:kd6kxr@gmail.com)
 ### 11 September 2021 | `/DTG//110630USEP21  //RB21911001/`
 
-
 #### Sources:
 
-> #####     [https://data.sccgov.org/](https://data.sccgov.org/) *via* Socrata API
-> #####     [https://data.census.gov/](https://data.census.gov/) *via* python API
-
+* #####     [https://data.sccgov.org/](https://data.sccgov.org/) *via* Socrata API
+* #####     [https://data.census.gov/](https://data.census.gov/) *via* python API 
+   * Table Elements [B02001_002E](https://api.census.gov/data/2016/acs/acs5/groups/B02001.html), [B03001_003E](https://api.census.gov/data/2016/acs/acs5/groups/B03001.html), [B02015_001E](https://api.census.gov/data/2016/acs/acs5/groups/B02015.html)
+ 
 #### Census Tract Reference Plot:
 
-> ##### [https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf](https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf)
+* ##### [https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf](https://www2.census.gov/geo/maps/DC2020/PL20/st06_ca/censustract_maps/c06085_santa_clara/DC20CT_C06085.pdf)
 
 #### Licensing:
 
-> ##### [GNU Affero V3 2017](https://raw.githubusercontent.com/Benitoite/covid19race/main/LICENSE)
+* ##### [GNU Affero V3 2017](https://raw.githubusercontent.com/Benitoite/covid19race/main/LICENSE)
 
 <hr>
 
@@ -35,7 +35,7 @@
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map.ipynb)
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19map-asia.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19map-asia.ipynb)
 
-> Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
+* Notebook generating maps for Covid-19 Positivity, Case Rate, Race Demographics by Census Tract
     
 | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map5.png"> | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/map9.png"> |
 | :---: | :---: |
@@ -76,6 +76,7 @@
 
 |   [White](#white-only)  |  [Hispanic](#hispanic-analysis)   |   [Asian](#asian-analysis)   |
 |:--:|:--:|:--|
+| [B02001_002E](https://api.census.gov/data/2016/acs/acs5/groups/B02001.html) | [B03001_003E](https://api.census.gov/data/2016/acs/acs5/groups/B03001.html) | [B02015_001E](https://api.census.gov/data/2016/acs/acs5/groups/B02015.html) |
 
 <hr>
 
@@ -83,7 +84,7 @@
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race.ipynb)
 
-> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
+* Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent White Only
 
 | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure1.svg"> |  <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2.svg"> |
 | :---: | :---: |
@@ -119,7 +120,7 @@
 
 #### [https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb](https://github.com/Benitoite/covid19race/blob/hisp/covid19race.ipynb)
 
-> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
+* Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Hispanic
 
 | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure1.svg"> | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/hisp/Resources/figure2.svg"> |
 | :---: | :---: |
@@ -155,7 +156,7 @@
 
 #### [https://github.com/Benitoite/covid19race/blob/main/covid19race-asia.ipynb](https://github.com/Benitoite/covid19race/blob/main/covid19race-asia.ipynb)
 
-> Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Asian
+* Notebook comparing Covid-19 Positivity, Case Rate, and Vacc12 Rates per Census Tract by Percent Asian
 
 | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure1aa.svg"> | <img width="900px"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figure2aa.svg"> |
 | :---: | :---: |
