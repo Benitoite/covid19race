@@ -1,6 +1,8 @@
 # Covid-19 & Race
 ## Notebooks comparing U.S. Census Bureau demographic and County of Santa Clara Covid-19 health data
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Benitoite/covid19race/HEAD)
+
 <img src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/maps.gif" height="310" /><img height="310"  src="https://raw.githubusercontent.com/Benitoite/covid19race/main/Resources/figs.gif" />
 
 ## Richard Eldon Barber | [`kd6kxr@gmail.com`](mailto:kd6kxr@gmail.com)
